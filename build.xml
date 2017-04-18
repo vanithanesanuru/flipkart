@@ -1,4 +1,5 @@
 <project name="abc">
-  <target name ="compile">
+	<target name ="compile">
+		<mkdir dir ="classes"/>
   </target>
   </project>
